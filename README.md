@@ -1,17 +1,17 @@
-# react-turnstile
+# react-hook-turnstile
 
 A very simple React library for [Cloudflare Turnstile](https://challenges.cloudflare.com).
 
 ## Installation
 
 ```sh
-npm i react-turnstile
+npm i react-hook-turnstile
 ```
 
 ## Usage
 
 ```jsx
-import Turnstile, { useTurnstile } from "react-turnstile";
+import Turnstile, { useTurnstile } from "react-hook-turnstile";
 
 // ...
 
